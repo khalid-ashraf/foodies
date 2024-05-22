@@ -1,3 +1,8 @@
-App structure drawing
+Page structure drawing
 
 https://excalidraw.com/#json=aPNHzTzgcE8dRNap17Df0,zpMtI6ELlAQ-fe3ZC_0GKw
+
+====================================================================================================
+Layout structure:
+
+## Rootlayout => Main-header => Main-header-background
