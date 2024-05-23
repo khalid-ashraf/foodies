@@ -2,7 +2,7 @@ import "./globals.css";
 import MainHeader from "@/components/main-header/main-header";
 
 export const metadata = {
-	title: "Foodies",
+	title: "Next Level Foodies",
 	description: "Food Lovers favorite stop!",
 };
 
